@@ -1,4 +1,4 @@
-## Bill Keeper API
+## Simple weather application
 
 A simple Android weather application which uses a third-party API that provides weather details or
 forecast from a specific city. The frontend is built in Android using Android Studio and the backend is a REST API.
